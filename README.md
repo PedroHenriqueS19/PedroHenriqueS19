@@ -14,4 +14,4 @@
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div><br/><br/>
 
-Graduando em Ciência da Computação pela Universidade Nove de Julho (2024-2028), com interesse em desenvolvimento backend (.NET e ASP.NET). Aprendendo constantemente para criar soluções eficientes e escaláveis. ✍🏻📈
+Graduando em Ciência da Computação pela Universidade Nove de Julho (2024-2028), com interesse em desenvolvimento backend (JAVA e SpringBoot). Aprendendo constantemente para criar soluções eficientes e escaláveis. ✍🏻📈
