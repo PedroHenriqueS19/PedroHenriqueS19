@@ -9,9 +9,9 @@
 ## Tecnologias de meu conhecimento
 
 <div style="display: inline-block;">
+    <img align="center" alt="JAVA" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=  &logoColor=white"/>
-     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div><br/><br/>
 
 Graduando em Ciência da Computação pela Universidade Nove de Julho (2024-2028), com interesse em desenvolvimento backend (.NET e ASP.NET). Aprendendo constantemente para criar soluções eficientes e escaláveis. ✍🏻📈
